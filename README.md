@@ -7,5 +7,5 @@ Conheci o Java em 2014 quando comecei o meu TCC, onde desenvolvi o frontend de u
 <div align="center">
   <a href="https://github.com/leoceschin">
   <img height="145em" align="Center" src="https://github-readme-stats.vercel.app/api?username=leoceschin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="145em" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoceschinj&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="145em" align="Center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leoceschin&layout=compact&langs_count=7&theme=dracula"/>
 </div>
