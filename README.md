@@ -1,4 +1,5 @@
 ### Olá 👋
+![](https://komarev.com/ghpvc/?username=leoceschin)
 
 Me chamo Leona e me formei em Desenho Industrial em 2015, passei 6 anos no mercado de criação de materiais pedagógicos em escolas e hoje busco uma mudança de carreira para a área de tecnologia, mais especificamente em desenvolvimento backend. 
 
