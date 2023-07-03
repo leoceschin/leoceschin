@@ -10,7 +10,7 @@ No início de 2023 publiquei meu primeiro aplicativo o <a href="https://play.goo
 Hoje tenho conhecimento em:<br>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,docker)](https://skillicons.dev)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoceschin)](https://github.com/leoceschin/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoceschin&layout=donut)](https://github.com/leoceschin/)
 <br>
 
 Tenho interesse em desenvolvimento, cultura maker e cybersegurança.
