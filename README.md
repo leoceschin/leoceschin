@@ -8,7 +8,7 @@ Conheci o Java em 2015 quando comecei o meu TCC, onde desenvolvi o protótipo de
 No início de 2023 publiquei meu primeiro aplicativo o <a href="https://play.google.com/store/apps/details?id=com.ceschin.copyyourtag&hl=pt_BR&gl=US">Copy Your Tag</a>, um app para quem precisa sempre postar as mesmas hashtags mas não quer escreve-las toda vez.
 
 Hoje tenho conhecimento em:<br>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,html,css,docker)](https://skillicons.dev)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoceschin&layout=compact)](https://github.com/leoceschin/)
 <br>
