@@ -3,6 +3,11 @@
 
 Me chamo Leona e me formei em Desenho Industrial em 2015, passei 6 anos no mercado de criação de materiais pedagógicos em escolas e hoje busco uma mudança de carreira para a área de tecnologia, mais especificamente em desenvolvimento backend. 
 
-Conheci o Java em 2015 quando comecei o meu TCC, onde desenvolvi o frontend de um aplicativo android nativo. Acabei me afastando e agora retorno para os estudos na linguagem e suas tecnologias.
+Conheci o Java em 2015 quando comecei o meu TCC, onde desenvolvi o protótipo de um aplicativo android nativo. 
+
+No início de 2023 publiquei meu primeiro aplicativo o <a href="https://play.google.com/store/apps/details?id=com.ceschin.copyyourtag&hl=pt_BR&gl=US">Copy Your Tag</a>, um app para quem precisa sempre postar as mesmas hashtags mas não quer escreve-las toda vez.
+
+Hoje tenho conhecimento em: 
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,docker)](https://skillicons.dev)
 
 Tenho interesse em desenvolvimento, cultura maker e cybersegurança.
