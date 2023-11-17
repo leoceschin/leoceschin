@@ -1,7 +1,7 @@
 ### Olá 👋
 ![](https://komarev.com/ghpvc/?username=leoceschin)
 
-Me chamo Leona e me formei em Desenho Industrial em 2015, sou designer de profissão e dev de coração. 
+Me chamo Leona e me formei em Desenho Industrial em 2015, sou designer de profissão e apaixonada por tecnologia. 
 
 Conheci o Java em 2015 quando comecei o meu TCC, onde desenvolvi o protótipo de um aplicativo android nativo. 
 
